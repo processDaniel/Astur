@@ -1,0 +1,81 @@
+﻿
+SAXON = { #  Kingdom of Saxony
+   color = rgb { 157 113 199 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = norse #Germanic Religion
+}
+
+
+SORBI = { # Tribal kingdom of Sorbia
+   color = rgb { 30 139 71 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = romuva #Slavic Religion
+   difficulty = 1
+}
+
+
+
+BAVAR = { #  Duchy of Bavaria
+   color = rgb { 79 193 200 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = high_german
+   religion_definition = catholic
+   difficulty = 2
+}
+
+
+THURG = { #  Duchy of Thuringia
+   color = rgb { 44 88 250 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = high_german
+   religion_definition = catholic
+   difficulty = 2
+}
+
+
+CARAN = { #  Principality of Carantania
+   color = rgb { 177 226 84 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = carantanian
+   religion_definition = catholic
+   difficulty = 2
+}
+
+
+VELET = { #  Veleti Confederation
+   color = rgb { 190 118 72 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = veleti
+   religion_definition = romuva
+}
+
+
+OBOTR = { #  Obotrite Confederation
+   color = rgb { 19 6 114 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = obotrite
+   religion_definition = romuva
+}

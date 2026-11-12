@@ -1,0 +1,11 @@
+diplomacy_manager = {
+	dependency = { first = MRCIA second = ESANG subject_type = vassal }
+	dependency = { first = MRCIA second = ESEX subject_type = vassal }
+	dependency = { first = LOMBA second = BENVE subject_type = vassal }
+	dependency = { first = BYZAN second = NAPLE subject_type = vassal }
+	dependency = { first = ABASS second = ARMEN subject_type = vassal }
+	dependency = { first = ABASS second = IBER subject_type = vassal }
+	dependency = { first = FRANK second = THURG subject_type = vassal }
+	dependency = { first = BAVAR second = CARAN subject_type = vassal }
+	scripted_mutual = { first = FRANK second = OBOTR type = alliance }
+}

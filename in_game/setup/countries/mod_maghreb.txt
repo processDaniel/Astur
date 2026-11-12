@@ -1,0 +1,61 @@
+﻿
+NEKOR = { #Emirate of Nekor
+   color = rgb { 197 218 110 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = sunni
+}
+
+
+IFRIQ = { #Fihrid Ifriqiya
+   color = rgb { 53 149 211 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = ibadi
+}
+
+TRIPO	= { #Tripolitania under Abu al-Khattab al-Ma'afiri
+	color = hsv { 0 0 0.43 }
+
+	culture_definition = sardinian
+	religion_definition = ibadi
+}
+
+
+BERBR = { #Berber Confederation WIP
+   color = rgb { 118 89 32 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = nyama_religion
+}
+
+
+IFRID = { #Ifrinid Sultanate https://en.wikipedia.org/wiki/Banu_Ifran
+   color = rgb { 62 229 119 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = zenati
+   religion_definition = ibadi
+}
+
+
+AWRAB = { #Awrabas tribe (soon to be Idrisid dynasty) https://en.wikipedia.org/wiki/Awraba
+   color = rgb { 229 102 147 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = zenati
+   religion_definition = ibadi
+}

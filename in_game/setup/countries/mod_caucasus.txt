@@ -1,0 +1,22 @@
+﻿
+ARMEN = { #  Emirate of Arminiya
+   color = rgb { 237 53 69 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 188 28 13 }
+   unit_color2 = rgb { 200 200 210 }
+   religion_definition = sunni
+   culture_definition = armenian_culture
+}
+
+
+IBER = { #  Kingdom of Iberia
+   color = rgb { 223 235 62 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 188 28 13 }
+   unit_color2 = rgb { 200 200 210 }
+   religion_definition = catholic
+   culture_definition = armenian_culture
+   difficulty = 2
+}

@@ -1,0 +1,6 @@
+locations = {
+   cordoba = { rank = city }
+}
+building_manager = {
+   aqueduct_system = { tag = ALADU level = 1 location = segovia }
+}

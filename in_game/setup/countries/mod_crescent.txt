@@ -1,0 +1,12 @@
+﻿
+
+ABASS = { #Abassyd Calyphate
+   color = rgb { 226 176 48 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = shia
+   difficulty = 2
+}

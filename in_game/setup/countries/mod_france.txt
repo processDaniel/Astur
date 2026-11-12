@@ -1,0 +1,37 @@
+﻿
+
+
+FRANK = { #  Frankish Kingdom
+   color = rgb { 74 9 200 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 188 28 13 }
+   unit_color2 = rgb { 200 200 210 }
+   culture_definition = frankish
+   religion_definition = catholic
+   difficulty = 4
+}
+
+AQTAN = { #  Duchy of Aquitaine
+	color = rgb { 123 218 130 }
+	color2 = rgb { 16 81 242 }
+
+	culture_definition = asturian
+	religion_definition = catholic
+	
+	unit_color0 = rgb { 123 58 13 }
+	unit_color1 = rgb { 188 28 13 }
+	unit_color2 = rgb { 200 200 210 }
+}
+
+
+BRITT = { #  Kingdom/duchy of Britanny
+   color = rgb { 58 70 58 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 188 28 13 }
+   unit_color2 = rgb { 200 200 210 }
+   culture_definition = briton
+   religion_definition = catholic
+   difficulty = 2
+}

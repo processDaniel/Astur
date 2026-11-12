@@ -1,0 +1,207 @@
+international_organization_manager = {
+	#################################################################
+	# 				Unique International Organizations				#
+	#################################################################
+
+	#################################################################
+	# 				Holy Roman Empire								#
+	#################################################################
+	
+	
+	#################################################################
+	# 				Catholic Church									#
+	#################################################################
+	add_international_organization = {
+		type = catholic_church
+		creation_date = 33.1.1
+		members = { PAP }
+		leader = PAP
+
+		laws = {
+			limited_indulgences
+			ultramontanism
+			unlimited_veneration
+			tolerated_simony
+			society_of_jesus_not_allowed
+			witchcraft_not_aknowledged
+			priest_marriage_not_allowed
+		}
+
+		
+	}	
+
+	
+	
+	#################################################################
+	# 				High Kingship & Lordship of Ireland				#
+	#################################################################
+
+
+
+	#################################################################
+	# 				Guelphs & Ghibellines							#
+	#################################################################
+		
+	#################################################################
+	# 				Ilkhanate										#
+	#################################################################
+	
+	 #################################################################
+	# 				Tatar Yoke										#
+	#################################################################
+		
+	#################################################################
+	# 				Swiss Confederation								#
+	#################################################################
+	
+	#################################################################
+	# 				Autocephalous Patriarchates						#
+	#################################################################
+	add_international_organization = {
+		type = autocephalous_patriarchate
+		creation_date = 330.1.1
+		members = { 	
+		}
+		variables = { 
+			religion = religion:orthodox
+			seat = location:constantinople
+		}
+		laws = {
+			dual_nature
+			high_christology
+			byzantine_rites
+			accept_essence_tenet
+			accept_person_tenet
+			accept_prosopon_tenet
+			allow_christological_debates_tenet
+			allow_double_sabbath_tenet
+			cooperation_between_patriarchs_tenet
+			caesaropapism_tenet
+		}
+	}
+
+	
+	
+	add_international_organization = {
+		type = autocephalous_patriarchate
+		creation_date = 431.1.1
+		members = { }
+		variables = { 
+			religion = religion:orthodox
+			seat = location:nicosia_cyp
+		}
+		laws = {
+			dual_nature
+			high_christology
+			catholic_influenced_rites
+			accept_essence_tenet
+			accept_person_tenet
+			accept_prosopon_tenet
+			allow_christological_debates_tenet
+			allow_double_sabbath_tenet
+			cooperation_between_patriarchs_tenet
+			independent_authorities_tenet
+		}
+	}
+
+	add_international_organization = {
+		type = autocephalous_patriarchate
+		creation_date = 301.1.1
+		members = {  }
+		variables = { 
+			religion = religion:miaphysite
+			seat = location:sis
+		}
+		laws = {
+			composite_nature
+			high_christology
+			local_traditions_and_rites
+			accept_essence_tenet
+			accept_person_tenet
+			accept_prosopon_tenet
+			allow_christological_debates_tenet
+			allow_double_sabbath_tenet
+			independent_acting_patriarchs_tenet
+			independent_authorities_tenet
+		}
+	}
+
+	add_international_organization = {
+		type = autocephalous_patriarchate
+		creation_date = 519.1.1
+		members = { }
+		variables = { 
+			religion = religion:miaphysite
+			seat = location:antioch
+		}
+		laws = {
+			composite_nature
+			high_christology
+			local_traditions_and_rites
+			accept_essence_tenet
+			accept_person_tenet
+			accept_prosopon_tenet
+			allow_christological_debates_tenet
+			allow_double_sabbath_tenet
+			independent_acting_patriarchs_tenet
+			independent_authorities_tenet
+		}
+	}
+
+	add_international_organization = {
+		type = autocephalous_patriarchate
+		creation_date = 451.1.1
+		members = {  }
+		variables = { 
+			religion = religion:miaphysite
+			seat = location:alexandria
+		}
+		laws = {
+			composite_nature
+			high_christology
+			local_traditions_and_rites
+			accept_essence_tenet
+			accept_person_tenet
+			accept_prosopon_tenet
+			allow_christological_debates_tenet
+			allow_double_sabbath_tenet
+			independent_acting_patriarchs_tenet
+			independent_authorities_tenet
+		}
+	}
+
+	add_international_organization = {
+		type = autocephalous_patriarchate
+		creation_date = 410.1.1
+		members = { }
+		variables = { 
+			religion = religion:nestorianism
+			seat = location:mosul
+		}
+		laws = {
+			composite_nature
+			high_christology
+			local_traditions_and_rites
+			accept_essence_tenet
+			accept_person_tenet
+			accept_prosopon_tenet
+			allow_christological_debates_tenet
+			allow_double_sabbath_tenet
+			independent_acting_patriarchs_tenet
+			independent_authorities_tenet
+		}
+	}
+
+	
+	#################################################################
+	# 					Tribal Confederation						#
+	#################################################################
+			
+	#################################################################
+	# 					Jurchen Confederations						#
+	#################################################################
+			
+	#################################################################
+	# 							Sects								#
+	#################################################################
+}

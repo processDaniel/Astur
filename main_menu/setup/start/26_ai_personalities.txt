@@ -1,0 +1,29 @@
+
+
+
+countries = {
+	countries = {
+
+		# Aggressive: militarist nations that pursue wars without hesitation
+	
+
+		# Expansionist: nations with clear territorial ambitions but follow casus belli
+
+
+		# Defensive: nations content to hold their ground
+
+
+		# Cautious: risk-averse, prefer safe diplomacy over war
+	
+
+		# Opportunistic: exploit others' weaknesses; trade-focused
+
+
+		# Isolationist: internally focused, avoid foreign entanglement
+
+
+		# Friendly: diplomacy-first, build alliances and accept fair peace
+
+
+	}
+}

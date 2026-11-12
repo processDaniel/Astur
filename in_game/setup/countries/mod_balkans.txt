@@ -1,0 +1,36 @@
+﻿BYZAN	= { #Byzantine Empire
+	color = map_BYZ
+	color2 = rgb { 150 11 146 } #new color
+
+	culture_definition = sardinian
+	religion_definition = catholic
+}
+
+
+BULGR = { #First Bulgarian Empire
+   color = rgb { 161 144 171 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = tengri
+}
+
+
+CROAT = { #Duchy of Croacia
+   color = rgb { 114 55 236 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = romuva #Slavic religion
+}
+
+
+SRBIA = { #Principality of Serbia
+   color = rgb { 181 75 47 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = romuva #Slavic Religion
+}

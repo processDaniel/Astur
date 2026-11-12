@@ -1,0 +1,11 @@
+﻿
+AVARS = { # Avar Khagnate
+   color = rgb { 69 71 73 }
+   color2 = rgb { 16 81 242 }
+   unit_color0 = rgb { 123 58 13 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = sardinian
+   religion_definition = tengri
+   difficulty = 2
+}

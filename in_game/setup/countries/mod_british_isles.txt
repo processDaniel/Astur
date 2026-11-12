@@ -1,0 +1,109 @@
+﻿
+WESEX = { #Kingdom of Wessex
+   color = rgb { 188 57 18 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = anglo_saxon
+   religion_definition = catholic
+}
+
+
+MRCIA = { #Kingdom of Mercia
+   color = rgb { 101 80 40 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = anglo_saxon
+   religion_definition = catholic
+}
+
+
+NORTU = { #Kingdom of Northumbria
+   color = rgb { 138 18 144 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = northumbrian
+   religion_definition = catholic
+}
+
+
+ESANG = { #Kingdom of East Anglia
+   color = rgb { 253 240 100 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = anglo_saxon
+   religion_definition = catholic
+}
+
+
+SUSEX = { #Kingdom of Sussex
+   color = rgb { 214 7 128 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = anglo_saxon
+   religion_definition = catholic
+}
+
+
+KENT = { #Kingdom of Kent
+   color = rgb { 112 198 14 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = anglo_saxon
+   religion_definition = catholic
+}
+
+
+GWYND = { #Kingdom of Gwynedd
+   color = rgb { 16 178 103 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = briton
+   religion_definition = catholic
+}
+
+
+PICTS = { #Kingdom of the Picts
+   color = rgb { 50 14 130 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = pictish
+   religion_definition = catholic
+}
+
+
+IHKNG = { #Irish High Kingship
+   color = rgb { 32 104 9 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = irish
+   religion_definition = catholic
+}
+
+
+ESEX = { #Kingdom of Essex
+   color = rgb { 227 125 160 }
+   color2 = rgb { 49 49 49 }
+   unit_color0 = rgb { 49 49 49 }
+   unit_color1 = rgb { 49 49 49 }
+   unit_color2 = rgb { 49 49 49 }
+   culture_definition = anglo_saxon
+   religion_definition = catholic
+}

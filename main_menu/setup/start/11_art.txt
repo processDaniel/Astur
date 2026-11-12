@@ -1,0 +1,71 @@
+work_of_art_manager = {
+	#Normandy - NRM
+	#Ireland
+	#England - ENG
+	regalia = { location = london origin = perth quality = 45 creation_date = 498.1.1 key = stone_of_scone}
+	scripture = { location = canterbury origin = rome quality = 45 creation_date = 580.1.1 key = st_augustine_gospels}
+	#Naples - NAP
+	#Milan - MLO
+	#Ethiopia - ETH
+	monument = { location = axum origin = axum quality = 77 creation_date = 400.1.1 key = king_ezana_stele } #https://en.wikipedia.org/wiki/King_Ezana%27s_Stele
+	#Genoa - GEN
+	#Novgorod - NOV
+	#Mallorca - MLL
+	#Aragon - ARA
+	#Kanem - KBO
+	#Mali - MAL
+	#Meissen - MEI
+	#Teutons - TEU
+	#Serbia - SER
+	#Hungary - HUN
+	#Japan - JAP
+	regalia = { location = yoshino origin = kyoto quality = 100 creation_date = -97.1.13 key = kusanagi_no_tsurugi }
+	regalia = { location = yoshino origin = kyoto quality = 100 creation_date = -97.1.13 key = yata_no_kagami }
+	regalia = { location = yoshino origin = kyoto quality = 100 creation_date = -97.1.13 key = yasakani_no_magatama }
+	#Navarra - NAV
+	#Korea - KOR
+	#Venice - VEN
+	statue = { location = venice origin = chios  quality = 60 creation_date = 200.1.1  key = saint_mark_horses } #https://en.wikipedia.org/wiki/Horses_of_Saint_Mark
+	# Papal States - PAP
+	#Portugal - POR
+	#Byzantium - BYZ
+	monument = { location = constantinople origin = constantinople  quality = 57 creation_date = 548.1.1  key = hagia_irene } #https://en.wikipedia.org/wiki/Hagia_Irene
+	monument = { location = constantinople origin = constantinople  quality = 91 creation_date = 537.1.1  key = hagia_sophia } #https://en.wikipedia.org/wiki/Hagia_Sophia
+	monument = { location = constantinople origin = constantinople  quality = 48 creation_date = 413.1.1  key = theodosian_walls } #https://en.wikipedia.org/wiki/Walls_of_Constantinople
+	#Poland - POL
+	#Denmark - DAN
+	#France - FRA
+	#Flanders - FLA
+	#Flanders - FLA
+	#Castile - CAS
+	#Upper Bavaria - UBV
+	#Imperial Regalia of the HRE will move with each emperor - starting in Upper Bavaria
+	#Karamanids - KAR
+	#Eretnids - ERE
+	#Stuayids - SUT
+	#Mamluks - MAM
+	#Morocco - MOR
+	#Lithuania - LIT
+	#Dai Viet - DAI
+	#Khmer - KHM
+	statue = { location = angkor origin = patna  quality = 89 creation_date = -43.1.1  key = emerald_buddha } #https://en.wikipedia.org/wiki/Emerald_Buddha
+	#Delhi - DLH
+	#Musumiri - MSN
+	#Ancient Monuments
+	monument = { location = amesbury origin = amesbury  quality = 10 creation_date = -2500.1.1  key = stonehenge }
+	monument = { location = rome origin = rome  quality = 72 creation_date = 80.1.1  key = colosseum_of_rome }
+	monument = { location = athens origin = athens  quality = 59 creation_date = -432.1.1  key = parthenon_of_athens }
+	monument = { location = giza origin = giza quality = 87 creation_date = -2560.1.1 key = pyramid_art_key }
+	monument = { location = bhopal origin = bhopal  quality = 72 creation_date = -250.1.1  key = sanchi_stupa }
+	monument = { location = tehotihuacan origin = tehotihuacan  quality = 34 creation_date = 200.1.1  key = teotihuacan_temple }
+	#Austria - HAB
+	#Vladimir - VLR
+	#Pskov - PSK
+	#Kyiv - KIE
+	#China - YUA
+	treatise = { location = dadu origin = dadu quality = 89 creation_date = -450.1.1 key = art_of_war }
+	treatise = { location = dadu origin = dadu quality = 72 creation_date = -300.1.1 key = kaogongji }
+	monument = { location = jingzhao origin = jingzhao quality = 72 creation_date = 652.1.1 key = giant_wild_goose_pagoda }
+	#Orthodox WoAs added for 1.2
+	monument = { location = rovinj origin = rovinj quality = 80 creation_date = 553.1.1 key = euphrasian_basilica }
+}

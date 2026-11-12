@@ -1,0 +1,33 @@
+ASTUR = { # Kingdom of Asturias
+	color = map_ASTUR
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = asturian
+	religion_definition = catholic
+	
+	unit_color0 = map_ASTUR
+	unit_color1 = rgb { 188 28 13 }
+	unit_color2 = rgb { 200 200 210 }
+}
+
+ALADU = { # Emirate of Cordoba
+	color = rgb { 0 133 50}
+
+	culture_definition = moroccan
+	religion_definition = sunni
+	
+	unit_color0 = rgb { 0 133 50}
+	unit_color1 = rgb { 188 28 13 }
+	unit_color2 = rgb { 200 200 210 }
+}
+
+VASCO = { # Vasconia	
+	color = rgb { 0 133 50}
+
+	culture_definition = moroccan
+	religion_definition = catholic
+	
+	unit_color0 = rgb { 0 133 50}
+	unit_color1 = rgb { 188 28 13 }
+	unit_color2 = rgb { 200 200 210 }
+}
